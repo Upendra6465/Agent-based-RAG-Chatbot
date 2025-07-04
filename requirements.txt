@@ -1,0 +1,8 @@
+streamlit
+transformers
+sentence-transformers
+faiss-cpu
+torch
+duckduckgo-search
+PyMuPDF
+python-docx
